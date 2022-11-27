@@ -1,0 +1,15 @@
+
+#intro {color: #000000;
+text-align: center;}
+#intro2{color: #000000;
+    text-align: center;}
+.TooBig{width: 500px;}
+.TooBig{length: 230px;}
+.TooWide{height: 230px;}
+.TooToo{height: 230px;}
+#text-center {
+    background-color:black;
+}
+#text-reset {
+    background-color:black;
+}
